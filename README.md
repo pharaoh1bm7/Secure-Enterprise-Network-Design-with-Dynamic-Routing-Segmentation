@@ -82,4 +82,4 @@ The network consists of:
 
 ## 👨‍💻 Author
 
-Bilal Aladwy (Pharaoh BM7)
+Belal Eladway (Pharaoh BM7)
